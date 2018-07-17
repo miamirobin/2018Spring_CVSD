@@ -1,0 +1,1 @@
+source /usr/cad/cadence/jasper/cur/license/license.cshrc
